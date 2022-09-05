@@ -4,8 +4,8 @@ import sys
 import numpy as np
 
 # Setting folder directory
-if "objectTracking" in os.listdir("."):
-    os.chdir("./objectTracking")
+if "objectDetecting" in os.listdir("."):
+    os.chdir("./objectDetecting")
 
 filePath = "hat.jpg"
 
